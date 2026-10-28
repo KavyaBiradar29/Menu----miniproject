@@ -2,7 +2,6 @@
 int main()
 {
     int option,quantity,total,Grandtotal=0,deliverycharge;
-    char op;
     printf("<-------WELCOME TO EMERTXE CAFFEE-------->\n");
    
     do 
